@@ -1,7 +1,7 @@
 # Mini Project 1 
 ![Alt Text](interface.jpg)
-You can check through this link
-https://bikashd003.github.io/Mini-project-1/
+You can check through this link</br>
+https://bikashd003.github.io/Mini-project-1/</br>
 This repository contains a simple web page created using HTML and CSS. The web page showcases a design and prompt generator website called "Dweep.io". Here's a breakdown of the project files:
 
 index.html: This file contains the HTML structure of the web page. It consists of a header section and a footer section.
